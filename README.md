@@ -106,4 +106,4 @@ The system follows a 4-step pipeline:
 
 ---
 
-Author: Kritika Garg and Hasandeep Singh
+Author: Kritika and Hasandeep Singh
